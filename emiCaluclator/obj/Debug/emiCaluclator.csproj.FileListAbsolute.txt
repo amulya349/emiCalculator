@@ -1,0 +1,13 @@
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\Bin\Debug\ApplicationIcon.png
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\Bin\Debug\Background.png
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\Bin\Debug\emiCalculator.dll
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\Bin\Debug\emiCalculator.pdb
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\Bin\Debug\AppManifest.xaml
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\Bin\Debug\emiCaluclator.xap
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\App.g.i.cs
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\help.g.i.cs
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\MainPage.g.i.cs
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\emiCalculator.g.resources
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\emiCalculator.dll
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\emiCalculator.pdb
+C:\Users\Amulya\Documents\Visual Studio 2010\Projects\emiCaluclator\emiCaluclator\obj\Debug\XapCacheFile.xml
